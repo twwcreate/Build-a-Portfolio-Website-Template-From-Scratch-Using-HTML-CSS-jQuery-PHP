@@ -8,3 +8,4 @@
  menu_toggle.on('click', function)
 
 https://www.skillshare.com/classes/Build-a-Portfolio-Website-Template-From-Scratch-Using-HTML-CSS-jQuery-PHP/893014576
+https://fancyapps.com/fancybox/
